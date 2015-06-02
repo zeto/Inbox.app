@@ -1,4 +1,4 @@
 # Inbox
 Inbox.app
 
-Standalone Inbox.app for OSX
+Standalone Google Inbox.app for OSX
